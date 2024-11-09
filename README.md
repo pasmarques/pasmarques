@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 welcome to my Github profile
+- My name is Pedro Affonso and i'm a CS student at UESC, I'm from Itabuna - BA, Brazil 🇧🇷
 
 <!--
 **pasmarques/pasmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
